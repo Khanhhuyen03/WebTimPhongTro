@@ -25,7 +25,9 @@
             </div>
         </div>
         <div id="banner">
+            <div>
 
+            </div>
         </div>
         <div>
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
