@@ -1,0 +1,37 @@
+﻿* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    cursor: pointer;
+}
+#from1 {
+    width: 100%;
+    height: 100vh;
+}
+
+#header {
+    width: 100%;
+    padding: 0px 30px;
+    margin-top: 33px;
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+}
+
+#menu {
+    list-style: none;
+    display: flex;
+}
+#menu .item {
+    margin: 0px 25px;
+ }
+#menu .item a {
+    color: #626a67;
+    text-decoration: none;
+ }
+
+#banner{
+    width:100%;
+    background-image: url("img/banner.png");
+}
